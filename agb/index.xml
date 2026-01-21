@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bedingungen und Konditionen - Offizielle Plattformregeln on Spinmacho-app</title>
-    <link>http://localhost:1313/agb/</link>
+    <link>https://spinmacho-app.de/agb/</link>
     <description>Recent content in Bedingungen und Konditionen - Offizielle Plattformregeln on Spinmacho-app</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/agb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spinmacho-app.de/agb/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
